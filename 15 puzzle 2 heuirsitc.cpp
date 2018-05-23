@@ -1,3 +1,10 @@
+/**
+	* Author   : Muhammad Tawsif Sazid
+	* Military Institute and Science and Technology
+	*
+	*
+**/
+
 #include <bits/stdc++.h>
 #define pii acos(-1)
 #define ll long long
